@@ -1,1 +1,1 @@
-# Simple-GA-Demo
+# Simple Genetic Algorithm Demo
